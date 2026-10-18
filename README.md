@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sahil Choudhary – Portfolio (React + Vite)
 
 ## Run on your computer
@@ -25,3 +26,6 @@ Put the file in `public/certificates/`, a small preview image in
 1. Upload the project to GitHub (do NOT upload node_modules; .gitignore already skips it).
 2. On https://vercel.com choose "Add New > Project" and import the repo.
 3. Vercel detects Vite automatically (build: `npm run build`, output: `dist`). Click Deploy.
+=======
+# sahil-portfolio
+>>>>>>> 01a4467dc594d461cf5d5935a7b082c7aa477c17
