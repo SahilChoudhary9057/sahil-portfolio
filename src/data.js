@@ -31,11 +31,11 @@ export const profile = {
   formKey: "PASTE_YOUR_WEB3FORMS_KEY_HERE",
 
   about: [
-    "I am a Computer Science Engineering student at Poornima College of Engineering, Jaipur. I have a background in Computer Science Engineering through my diploma and am interested in Python development, Data Science, and Machine Learning.",
+    "I am a Computer Science and Engineering student at Poornima College of Engineering, Jaipur, with an academic background in Computer Science and Engineering, including a diploma. I have a strong interest in Python development, Data Science, and Machine Learning.",
 
-    "I have worked on full-stack web applications, medical inventory management, disease prediction, and e-commerce development. I have also gained practical industry exposure through internships in Python programming and Data Science.",
+    "I have hands-on experience developing full-stack web applications, including e-commerce platforms, medical inventory management systems, and disease prediction systems. Additionally, I have gained practical industry exposure through internships in Python Programming and Data Science.",
 
-    "Currently, I am improving my Java and Data Structures and Algorithms skills, exploring machine learning, and building projects to strengthen my software development skills."
+    "Currently, I am strengthening my skills in Java and Data Structures and Algorithms (DSA), exploring Machine Learning concepts, and developing practical projects to enhance my problem-solving abilities and software development expertise."
   ],
 
   stats: [
