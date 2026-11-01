@@ -92,7 +92,8 @@ export const internships = [
     duration: "45 Days",
     description:
       "Gained practical exposure to Python programming, data handling, problem-solving, and developing scripts for practical use cases.",
-    skills: ["Python", "Programming", "Problem Solving"]
+    skills: ["Python", "Programming", "Problem Solving"],
+    certificate: "/python programming.jpg"
   },
   {
     role: "Communication Skills Training",
@@ -101,7 +102,8 @@ export const internships = [
     duration: "30 Days",
     description:
       "Developed professional communication, teamwork, and presentation skills in a startup and industry-oriented environment.",
-    skills: ["Communication", "Teamwork", "Presentation"]
+    skills: ["Communication", "Teamwork", "Presentation"],
+    certificate: "/MNIT incubation center.jpg"
   }
 ];
 
