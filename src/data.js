@@ -93,7 +93,7 @@ export const internships = [
     description:
       "Gained practical exposure to Python programming, data handling, problem-solving, and developing scripts for practical use cases.",
     skills: ["Python", "Programming", "Problem Solving"],
-    certificate: "/python programming.jpg"
+    certificate: "/certificates/python programming.jpg"
   },
   {
     role: "Communication Skills Training",
@@ -103,7 +103,7 @@ export const internships = [
     description:
       "Developed professional communication, teamwork, and presentation skills in a startup and industry-oriented environment.",
     skills: ["Communication", "Teamwork", "Presentation"],
-    certificate: "/MNIT incubation center.jpg"
+    certificate: "/certificates/MNIT incubation center.jpg"
   }
 ];
 
@@ -113,33 +113,33 @@ export const internships = [
 
 export const skills = {
   Languages: [
-    { name: "Python", level: 65 },
-    { name: "Java", level: 50 },
-    { name: "C", level: 50 },
-    { name: "SQL", level: 65 }
+    { name: "Python", level: 70 },
+    { name: "Java", level: 75 },
+    { name: "C", level: 55 },
+    { name: "SQL", level: 80 }
   ],
 
   "Web & Database": [
-    { name: "Flask", level: 65 },
-    { name: "MySQL", level: 65 },
-    { name: "HTML / CSS / JavaScript", level: 60 },
-    { name: "REST API Development", level: 55 }
+    { name: "Flask", level: 70 },
+    { name: "MySQL", level: 80 },
+    { name: "HTML / CSS / JavaScript", level: 70 },
+    { name: "REST API", level: 50 }
   ],
 
   "Data Science & ML": [
-    { name: "Pandas", level: 55 },
-    { name: "NumPy", level: 55 },
+    { name: "Pandas", level: 60 },
+    { name: "NumPy", level: 75 },
     { name: "Matplotlib", level: 55 },
-    { name: "Scikit-learn", level: 50 },
-    { name: "Data Preprocessing & EDA", level: 55 },
-    { name: "Web Scraping", level: 50 }
+    { name: "Scikit-learn", level: 40 },
+    { name: "Data Preprocessing & EDA", level: 65 },
+    { name: "Web Scraping", level: 80 }
   ],
 
   "Tools & Platforms": [
-    { name: "Git", level: 50 },
-    { name: "GitHub", level: 50 },
+    { name: "Git", level: 75 },
+    { name: "GitHub", level: 70 },
     { name: "VS Code", level: 65 },
-    { name: "Jupyter Notebook", level: 60 }
+    { name: "Jupyter Notebook", level: 80 }
   ]
 };
 
