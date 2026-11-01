@@ -203,19 +203,27 @@ export const projects = [
 
 export const journey = [
   {
+    when: "2023",
+    title: "Communication Skill",
+    where: "MNIT Incubation Center",
+    note:
+      "Developed professional communication, teamwork, and presentation skills in a startup and industry-oriented environment."
+  },
+  {
+    when: "2024",
+    title: "Python Programming Internship",
+    where: "Grras Solutions Pvt. Ltd.",
+    note:
+      "Gained practical experience in Python programming, data handling, and problem-solving."
+  },
+  {
     when: "2025",
     title: "Completed Diploma & Started B.Tech",
     where: "Jaipur, Rajasthan",
     note:
       "Completed a Diploma in Computer Science Engineering with a CGPA of 9.9 and started B.Tech in Computer Science and Engineering."
   },
-  {
-    when: "2025",
-    title: "Python Programming Internship",
-    where: "Grras Solutions Pvt. Ltd.",
-    note:
-      "Gained practical experience in Python programming, data handling, and problem-solving."
-  },
+  
   {
     when: "2026",
     title: "Data Science Internship",
@@ -291,5 +299,25 @@ export const certificates = [
     badge: "Award",
     file: "/certificates/academic-achievement-award.jpg",
     preview: "/certificates/previews/academic-achievement-award.jpg"
+  },
+  {
+    title: "Python Programming",
+    issuer: "Grras Solutions Pvt. Ltd.",
+    date: "1 July - 14 Aug 2024",
+    detail: "Python Programming Internship",
+    badge: "Internship",
+    file: "/certificates/python programming.jpg",
+    preview: "/certificates/previews/python programming.jpg"
+  },
+  {
+    title: "Communication Skill",
+    issuer: "MNIT Incubation Center",
+    date: "3 july - 31 July 2023",
+    detail: "Communication Skill Internship",
+    badge: "Internship",
+    file: "/certificates/MNIT incubation center.jpg",
+    preview: "/certificates/previews/MNIT incubation center.jpg"
   }
+
+
 ];
