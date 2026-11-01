@@ -149,14 +149,14 @@ export const skills = {
 
 export const projects = [
   {
-    title: "E-Commerce Website – Mixpotli",
+    title: "E-Commerce Website",
     type: "Web app",
     status: "Live",
     desc:
       "Developed a full-stack e-commerce application with product listings, product management, cart functionality, and database integration using Flask. The application was prepared for deployment on Render.",
     tags: ["Python", "Flask", "SQLAlchemy", "PostgreSQL", "HTML", "CSS"],
     live: "https://mixpotli.onrender.com",
-    repo: ""
+    repo: "https://github.com/SahilChoudhary9057/E--Commerce-Website"
   },
   {
     title: "Disease Prediction System",
@@ -176,7 +176,7 @@ export const projects = [
       "Developed a database-driven web application to manage medicine inventory and doctor records, with CRUD operations and backend logic using Flask and MySQL.",
     tags: ["Python", "Flask", "MySQL", "HTML", "CSS", "JavaScript"],
     live: "",
-    repo: ""
+    repo: "https://github.com/SahilChoudhary9057/medical-inventory-management"
   },
   {
     title: "Face Recognition Attendance System",
